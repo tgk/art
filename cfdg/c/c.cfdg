@@ -1,0 +1,34 @@
+startshape stage
+
+shape stage {
+  loop 18 [x 1]
+    loop 24 [y 1]
+      T []
+}
+
+shape T
+rule { S [] }
+rule { S [r 90] }
+rule { S [r 180] }
+rule { S [r 270] }
+rule { }
+
+shape S
+rule { c() [] }
+rule { l() [] }
+rule { d() [] }
+
+path c {
+  ARCTO(1, 1, 1, 1, 0)
+  STROKE []
+}
+
+path l {
+  LINETO(1, 0)
+  STROKE []
+}
+
+path d {
+  LINETO(1, 1)
+  STROKE []
+}

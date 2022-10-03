@@ -1,0 +1,32 @@
+startshape stage
+
+shape stage {
+  SQUARE [[s 3 b 0.5]]
+  S []
+}
+
+shape S
+rule {
+  S [x 1]
+  D []
+}
+rule {
+  S [y 1]
+  D []
+}
+rule {
+  S [x 1]
+  S [y 1]
+  D []
+}
+rule { }
+
+shape D
+rule { D [] D [] }
+rule { l() [] }
+rule 2 { D [r 90] }
+
+path l {
+  LINETO(1, 0)
+  STROKE []
+}
