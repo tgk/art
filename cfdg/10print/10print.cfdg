@@ -1,0 +1,19 @@
+startshape Loop
+
+n = 65
+m = 50
+
+shape Loop {
+  loop i = n [x 1]
+    loop j = m [y 1]
+      if (rand() < (i/n + j/m)/2) Glyph []
+}
+
+shape Glyph
+rule { l [] }
+rule { l [f 90 x 1] }
+
+path l {
+  LINETO(1, 1)
+  STROKE []
+}
