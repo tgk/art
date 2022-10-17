@@ -1,0 +1,20 @@
+startshape Fan
+
+shape Fan {
+  CIRCLE [s 2 b 0.9]
+  loop i = 15 [] {
+    P(i, 1) []
+    P(i, 1) [r 120]
+  }
+}
+
+shape P(i, d) {
+  l(i, d) []
+  l(i, d) [f 0]
+}
+
+path l(i, d) {
+  MOVETO(cos(180), sin(180))
+  LINETO(cos(d * (0.5 + i)), sin(d * (0.5 + i)))
+  STROKE(0.001) []
+}
