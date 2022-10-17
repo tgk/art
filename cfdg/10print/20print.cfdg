@@ -1,12 +1,17 @@
-startshape Loop
+startshape Stage
 
-n = 59
-m = 42
+n = 119
+m = 84
+
+shape Stage {
+  Loop []
+  Loop [r 180]
+}
 
 shape Loop {
   loop i = n [x 1]
     loop j = m [y 1]
-      if (rand() < (i/n + j/m)/2) Glyph []
+      if (rand() < i/n*j/m) Glyph []
 }
 
 shape Glyph
