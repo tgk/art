@@ -1,0 +1,32 @@
+CF::MinimumSize = 8
+CF::Time = [ time 0 1 ]
+CF::Size = [s 9 9 x -3.5 y -3]
+CF::Background = [b -1]
+
+startshape Stage
+
+shape Stage {
+  Loop [r 4]
+}
+
+shape Loop {
+  loop 7 [y 1]
+    Tail []
+}
+
+shape Tail
+rule {
+  B []
+  Tail [s 0.9 x 0.9 r (5*sin(360*(rand() + frame())))]
+}
+
+shape B { box [] }
+
+path box {
+  MOVETO(-0.5,0.5)
+  LINETO(0.5,0.5)
+  LINETO(0.5,-0.5)
+  LINETO(-0.5,-0.5)
+  LINETO(-0.5,0.5)
+  STROKE [b 1]
+}
