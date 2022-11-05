@@ -1,0 +1,912 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="500px" height="500px" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <polygon id="TRIANGLE" points="0,0.57735 -0.5,-0.288675 0.5,-0.288675"/>
+  </defs>
+  <circle r="0.5"
+          stroke="none" fill="#cccccc" fill-rule="nonzero"
+          transform="matrix(       242          0          0       -242        250        250)"/>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0       -121        250        250)">
+    <path id="path1" d="M 0,0 C 0.54520846,0.67874654 0.77640819,0.041015171 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0        121        250        250)">
+    <path id="path2" d="M 0,0 C 0.44361124,0.62265417 0.7532657,0.024111369 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0       -121        250        250)">
+    <path id="path3" d="M 0,0 C 0.42301914,0.71720323 0.74295246,0.022687296 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0        121        250        250)">
+    <path id="path4" d="M 0,0 C 0.53655181,0.69634555 0.76142309,-0.065426823 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907 -104.78907      -60.5        250        250)">
+    <path id="path5" d="M 0,0 C 0.52390527,0.65061032 0.75445232,0.0028794305 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907  104.78907       60.5        250        250)">
+    <path id="path6" d="M 0,0 C 0.5069475,0.71684561 0.8236003,-0.08632594 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907  104.78907       60.5        250        250)">
+    <path id="path7" d="M 0,0 C 0.54721484,0.61221151 0.74296594,-0.027865545 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907 -104.78907      -60.5        250        250)">
+    <path id="path8" d="M 0,0 C 0.527694,0.61042277 0.8147493,-0.081313863 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907  104.78907       60.5        250        250)">
+    <path id="path9" d="M 0,0 C 0.53347051,0.63603183 0.72630275,0.030033818 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907 -104.78907      -60.5        250        250)">
+    <path id="path10" d="M 0,0 C 0.53712445,0.70168538 0.73367332,-0.086937244 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907  104.78907       60.5        250        250)">
+    <path id="path11" d="M 0,0 C 0.43387133,0.72865916 0.83845118,0.0078631815 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907 -104.78907      -60.5        250        250)">
+    <path id="path12" d="M 0,0 C 0.41737947,0.67498244 0.80071025,0.010961036 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907  104.78907       60.5        250        250)">
+    <path id="path13" d="M 0,0 C 0.4421695,0.70145712 0.79610026,0.026984327 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907 -104.78907      -60.5        250        250)">
+    <path id="path14" d="M 0,0 C 0.40917161,0.73611092 0.80379144,-0.060092146 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907 -104.78907      -60.5        250        250)">
+    <path id="path15" d="M 0,0 C 0.51846027,0.7424683 0.73218326,-0.040419257 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907  104.78907       60.5        250        250)">
+    <path id="path16" d="M 0,0 C 0.41719107,0.60239256 0.74898306,-0.0063441303 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907 -104.78907      -60.5        250        250)">
+    <path id="path17" d="M 0,0 C 0.51229458,0.74780813 0.73018664,-0.086852667 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907  104.78907       60.5        250        250)">
+    <path id="path18" d="M 0,0 C 0.43832884,0.63944912 0.81765501,-0.037033545 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907 -104.78907      -60.5        250        250)">
+    <path id="path19" d="M 0,0 C 0.54865399,0.61501407 0.76785672,0.028039455 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907  104.78907       60.5        250        250)">
+    <path id="path20" d="M 0,0 C 0.49346345,0.6414931 0.70294787,-0.0039351322 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907  104.78907      -60.5        250        250)">
+    <path id="path21" d="M 0,0 C 0.42765084,0.71537197 0.81688539,-0.026183844 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907 -104.78907       60.5        250        250)">
+    <path id="path22" d="M 0,0 C 0.5412318,0.68785177 0.72371418,-0.052395489 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907  104.78907      -60.5        250        250)">
+    <path id="path23" d="M 0,0 C 0.43249928,0.66564707 0.81926981,-0.0018685197 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907 -104.78907       60.5        250        250)">
+    <path id="path24" d="M 0,0 C 0.49857401,0.63129766 0.7868351,-0.079754377 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907 -104.78907      -60.5        250        250)">
+    <path id="path25" d="M 0,0 C 0.45409851,0.60241032 0.84104723,-0.07526263 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 -104.78907  104.78907       60.5        250        250)">
+    <path id="path26" d="M 0,0 C 0.417506,0.61887018 0.76863275,-0.098609567 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907  104.78907      -60.5        250        250)">
+    <path id="path27" d="M 0,0 C 0.45212349,0.74401986 0.83012581,0.042567675 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907 -104.78907       60.5        250        250)">
+    <path id="path28" d="M 0,0 C 0.54897212,0.71306853 0.83501502,-0.054498734 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907  104.78907      -60.5        250        250)">
+    <path id="path29" d="M 0,0 C 0.45034016,0.66277082 0.77332075,-0.022962324 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907 -104.78907       60.5        250        250)">
+    <path id="path30" d="M 0,0 C 0.52907318,0.70797362 0.78296675,-0.051564527 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907  104.78907      -60.5        250        250)">
+    <path id="path31" d="M 0,0 C 0.49259942,0.74630198 0.70963885,0.038151739 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5  104.78907 -104.78907       60.5        250        250)">
+    <path id="path32" d="M 0,0 C 0.40747238,0.64902883 0.83916882,-0.053394472 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0       -121        250        250)">
+    <path id="path33" d="M 0,0 C 0.51800092,0.71128686 0.77456926,0.042570285 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0        121        250        250)">
+    <path id="path34" d="M 0,0 C 0.48924664,0.7001781 0.83597843,-0.025370389 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0       -121        250        250)">
+    <path id="path35" d="M 0,0 C 0.54660755,0.74123018 0.70088336,0.010357564 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0        121        250        250)">
+    <path id="path36" d="M 0,0 C 0.47815997,0.65948619 0.83465774,0.037483141 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907  104.78907       60.5        250        250)">
+    <path id="path37" d="M 0,0 C 0.479127,0.68866055 0.81622828,0.022064755 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5  104.78907 -104.78907      -60.5        250        250)">
+    <path id="path38" d="M 0,0 C 0.54016229,0.73202954 0.83252918,-0.090233416 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0       -121        250        250)">
+    <path id="path39" d="M 0,0 C 0.5179868,0.62425891 0.82325134,-0.029719636 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(       121          0          0        121        250        250)">
+    <path id="path40" d="M 0,0 C 0.42425798,0.60776642 0.79269842,0.043967171 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907 -104.78907       60.5        250        250)">
+    <path id="path41" d="M 0,0 C 0.40296401,0.71338298 0.80669214,-0.058674654 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907  104.78907      -60.5        250        250)">
+    <path id="path42" d="M 0,0 C 0.51299677,0.6457911 0.72536321,-0.0056240628 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907 -104.78907       60.5        250        250)">
+    <path id="path43" d="M 0,0 C 0.47812658,0.61428704 0.77563299,-0.050717397 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907  104.78907      -60.5        250        250)">
+    <path id="path44" d="M 0,0 C 0.50040961,0.60493877 0.7040977,-0.072600117 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907 -104.78907       60.5        250        250)">
+    <path id="path45" d="M 0,0 C 0.40620567,0.64432499 0.80698826,-0.0041404807 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907  104.78907      -60.5        250        250)">
+    <path id="path46" d="M 0,0 C 0.43037436,0.60577537 0.76912467,0.015380229 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907 -104.78907       60.5        250        250)">
+    <path id="path47" d="M 0,0 C 0.48772979,0.68367119 0.78249549,0.047719336 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907  104.78907      -60.5        250        250)">
+    <path id="path48" d="M 0,0 C 0.41040696,0.63962534 0.79938173,-0.089700779 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 -4.7017945e-14        121        250        250)">
+    <path id="path49" d="M 0,0 C 0.45393653,0.69505191 0.73064407,-0.076222761 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 4.7017945e-14       -121        250        250)">
+    <path id="path50" d="M 0,0 C 0.46969148,0.64871051 0.80613742,-0.077643059 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 -4.7017945e-14        121        250        250)">
+    <path id="path51" d="M 0,0 C 0.43119824,0.68446687 0.77948456,-0.0070969924 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 4.7017945e-14       -121        250        250)">
+    <path id="path52" d="M 0,0 C 0.45224824,0.74606721 0.83809072,-0.03791342 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 -4.7017945e-14        121        250        250)">
+    <path id="path53" d="M 0,0 C 0.50860667,0.74384849 0.81372927,-0.017376592 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 4.7017945e-14       -121        250        250)">
+    <path id="path54" d="M 0,0 C 0.42270696,0.74284551 0.81267791,-0.0095557265 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907 -104.78907       60.5        250        250)">
+    <path id="path55" d="M 0,0 C 0.41348129,0.68791019 0.84799701,-0.097929846 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -104.78907  104.78907      -60.5        250        250)">
+    <path id="path56" d="M 0,0 C 0.48845399,0.73557703 0.77569671,-0.067259793 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 -4.7017945e-14        121        250        250)">
+    <path id="path57" d="M 0,0 C 0.52351735,0.61540046 0.76204641,-0.055340584 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 4.7017945e-14       -121        250        250)">
+    <path id="path58" d="M 0,0 C 0.52427799,0.71071016 0.81787584,-0.020783881 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 -4.7017945e-14        121        250        250)">
+    <path id="path59" d="M 0,0 C 0.40380362,0.74639456 0.75983182,0.044365919 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      -121 -4.7017945e-14 4.7017945e-14       -121        250        250)">
+    <path id="path60" d="M 0,0 C 0.49429154,0.72126242 0.81661098,0.011290734 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5      -60.5 -3.7045566e-15        250        250)">
+    <path id="path61" d="M 0,0 C 0.4056449,0.66411385 0.76367667,0.012801047 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5       60.5 3.7045566e-15        250        250)">
+    <path id="path62" d="M 0,0 C 0.46259522,0.62831617 0.79388661,-0.088140621 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5      -60.5 -3.7045566e-15        250        250)">
+    <path id="path63" d="M 0,0 C 0.48849659,0.70007141 0.76912446,-0.075139245 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5       60.5 3.7045566e-15        250        250)">
+    <path id="path64" d="M 0,0 C 0.50912899,0.6098234 0.71222728,-0.093745778 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25     -30.25  52.394537        250        250)">
+    <path id="path65" d="M 0,0 C 0.48705852,0.6070594 0.776681,-0.069199325 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25      30.25 -52.394537        250        250)">
+    <path id="path66" d="M 0,0 C 0.49919861,0.66810285 0.7106389,0.016836195 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5       60.5 3.3584246e-14        250        250)">
+    <path id="path67" d="M 0,0 C 0.43164381,0.72442354 0.81450186,0.042748187 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5      -60.5 -3.3584246e-14        250        250)">
+    <path id="path68" d="M 0,0 C 0.45556445,0.65390307 0.75035491,-0.051474749 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537 -52.394537     -30.25        250        250)">
+    <path id="path69" d="M 0,0 C 0.41411014,0.64763691 0.83938622,-0.027797946 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537  52.394537      30.25        250        250)">
+    <path id="path70" d="M 0,0 C 0.46291835,0.72580206 0.70275364,-0.015152131 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537 -52.394537     -30.25        250        250)">
+    <path id="path71" d="M 0,0 C 0.53820176,0.68634357 0.83300245,-0.072356484 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537  52.394537      30.25        250        250)">
+    <path id="path72" d="M 0,0 C 0.51149788,0.67183837 0.81470966,-0.015981396 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537 -52.394537     -30.25        250        250)">
+    <path id="path73" d="M 0,0 C 0.52020307,0.64308007 0.72233279,-0.09083242 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537  52.394537      30.25        250        250)">
+    <path id="path74" d="M 0,0 C 0.40007015,0.73405956 0.73953902,0.037832876 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537 -52.394537     -30.25        250        250)">
+    <path id="path75" d="M 0,0 C 0.5364069,0.69925737 0.72632882,0.049915013 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537  52.394537      30.25        250        250)">
+    <path id="path76" d="M 0,0 C 0.51097307,0.71455101 0.84340049,-0.026808591 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537 -52.394537     -30.25        250        250)">
+    <path id="path77" d="M 0,0 C 0.50259176,0.70361837 0.72805504,-0.015818804 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25 -52.394537  52.394537      30.25        250        250)">
+    <path id="path78" d="M 0,0 C 0.49450553,0.62649482 0.72014566,-0.040359388 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5       60.5 3.3584246e-14        250        250)">
+    <path id="path79" d="M 0,0 C 0.51398689,0.69250125 0.75032925,-0.020108967 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5      -60.5 -3.3584246e-14        250        250)">
+    <path id="path80" d="M 0,0 C 0.45091228,0.60232328 0.77507798,0.024967198 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5       60.5 3.3584246e-14        250        250)">
+    <path id="path81" d="M 0,0 C 0.50017845,0.72856323 0.84092837,0.048565054 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5      -60.5 -3.3584246e-14        250        250)">
+    <path id="path82" d="M 0,0 C 0.44754054,0.6644127 0.73373979,-0.014620261 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5       60.5 3.3584246e-14        250        250)">
+    <path id="path83" d="M 0,0 C 0.40870051,0.65951998 0.81285206,0.04584083 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5      -60.5 -3.3584246e-14        250        250)">
+    <path id="path84" d="M 0,0 C 0.41509243,0.69129697 0.71042188,-0.094462345 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5       60.5 3.3584246e-14        250        250)">
+    <path id="path85" d="M 0,0 C 0.54026649,0.62172766 0.84315098,0.025696726 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-3.3584246e-14       60.5      -60.5 -3.3584246e-14        250        250)">
+    <path id="path86" d="M 0,0 C 0.53709049,0.60563938 0.75249825,0.046674496 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25     -30.25  52.394537        250        250)">
+    <path id="path87" d="M 0,0 C 0.41453874,0.72605134 0.7358765,-0.016305584 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25      30.25 -52.394537        250        250)">
+    <path id="path88" d="M 0,0 C 0.46846854,0.7472003 0.77255417,-0.055240242 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25     -30.25  52.394537        250        250)">
+    <path id="path89" d="M 0,0 C 0.52817139,0.62311207 0.82355983,-0.059155287 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25      30.25 -52.394537        250        250)">
+    <path id="path90" d="M 0,0 C 0.48206273,0.66303314 0.70292487,0.014865463 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25     -30.25  52.394537        250        250)">
+    <path id="path91" d="M 0,0 C 0.45139702,0.6800831 0.70383038,-0.06441205 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25      30.25 -52.394537        250        250)">
+    <path id="path92" d="M 0,0 C 0.41744289,0.6507078 0.74986088,0.046639898 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25     -30.25  52.394537        250        250)">
+    <path id="path93" d="M 0,0 C 0.42262552,0.64146821 0.75134104,-0.01781536 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537     -30.25      30.25 -52.394537        250        250)">
+    <path id="path94" d="M 0,0 C 0.53203631,0.62266446 0.76362064,0.011447949 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5      -60.5 -3.7045566e-15        250        250)">
+    <path id="path95" d="M 0,0 C 0.42560884,0.72536783 0.80846034,0.045712284 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5       60.5 3.7045566e-15        250        250)">
+    <path id="path96" d="M 0,0 C 0.4463811,0.74079654 0.81326996,0.040997955 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5      -60.5 -3.7045566e-15        250        250)">
+    <path id="path97" d="M 0,0 C 0.4531401,0.64067348 0.84766077,-0.0031970388 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5       60.5 3.7045566e-15        250        250)">
+    <path id="path98" d="M 0,0 C 0.46137473,0.66255304 0.82286247,0.015841069 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537  52.394537      30.25        250        250)">
+    <path id="path99" d="M 0,0 C 0.49341653,0.7236025 0.77198564,-0.040992252 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537 -52.394537     -30.25        250        250)">
+    <path id="path100" d="M 0,0 C 0.4387208,0.7040535 0.70717845,-0.008156593 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537  52.394537      30.25        250        250)">
+    <path id="path101" d="M 0,0 C 0.54180753,0.72279869 0.76989996,-0.039276704 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537 -52.394537     -30.25        250        250)">
+    <path id="path102" d="M 0,0 C 0.43661356,0.6836867 0.84608865,-0.028626694 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537  52.394537      30.25        250        250)">
+    <path id="path103" d="M 0,0 C 0.46302194,0.68996097 0.77028598,-0.069746601 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537 -52.394537     -30.25        250        250)">
+    <path id="path104" d="M 0,0 C 0.44231495,0.66096701 0.77761033,0.018786788 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537  52.394537      30.25        250        250)">
+    <path id="path105" d="M 0,0 C 0.44882125,0.66986854 0.79790901,0.024287609 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537 -52.394537     -30.25        250        250)">
+    <path id="path106" d="M 0,0 C 0.54981708,0.62517738 0.71971932,-0.0850402 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25     -30.25 -52.394537        250        250)">
+    <path id="path107" d="M 0,0 C 0.49319038,0.63261002 0.80711104,-0.0041205752 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25      30.25  52.394537        250        250)">
+    <path id="path108" d="M 0,0 C 0.47230112,0.74516001 0.84927439,0.045062069 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25     -30.25 -52.394537        250        250)">
+    <path id="path109" d="M 0,0 C 0.51562225,0.66157946 0.83797479,0.032922965 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25      30.25  52.394537        250        250)">
+    <path id="path110" d="M 0,0 C 0.41905592,0.66046297 0.75575859,-0.0030322429 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537  52.394537      30.25        250        250)">
+    <path id="path111" d="M 0,0 C 0.50377166,0.72254225 0.80222224,0.040886579 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25  52.394537 -52.394537     -30.25        250        250)">
+    <path id="path112" d="M 0,0 C 0.54175128,0.60044593 0.73151791,-0.073912093 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25     -30.25 -52.394537        250        250)">
+    <path id="path113" d="M 0,0 C 0.51669711,0.70499134 0.7313454,-0.0046608631 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25      30.25  52.394537        250        250)">
+    <path id="path114" d="M 0,0 C 0.47363506,0.66685093 0.81237914,-0.079547862 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25     -30.25 -52.394537        250        250)">
+    <path id="path115" d="M 0,0 C 0.47135134,0.71371801 0.70601067,-0.024226461 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25      30.25  52.394537        250        250)">
+    <path id="path116" d="M 0,0 C 0.50990883,0.66010103 0.82460217,-0.026561011 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25     -30.25 -52.394537        250        250)">
+    <path id="path117" d="M 0,0 C 0.5266428,0.65031634 0.74233428,-0.014125672 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537     -30.25      30.25  52.394537        250        250)">
+    <path id="path118" d="M 0,0 C 0.44006029,0.73297204 0.76196154,-0.096000011 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5      -60.5 -3.7045566e-15        250        250)">
+    <path id="path119" d="M 0,0 C 0.43670644,0.6005985 0.75554083,-0.084104766 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(3.7045566e-15      -60.5       60.5 3.7045566e-15        250        250)">
+    <path id="path120" d="M 0,0 C 0.43804142,0.7202114 0.75305231,-0.060783787 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 5.037637e-14      -60.5        250        250)">
+    <path id="path121" d="M 0,0 C 0.44585357,0.74198673 0.75945328,-0.094593606 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 -5.037637e-14       60.5        250        250)">
+    <path id="path122" d="M 0,0 C 0.52539207,0.70268506 0.76907894,-0.067966924 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 5.037637e-14      -60.5        250        250)">
+    <path id="path123" d="M 0,0 C 0.50679605,0.62702675 0.76542507,-0.072129464 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 -5.037637e-14       60.5        250        250)">
+    <path id="path124" d="M 0,0 C 0.4317058,0.66938963 0.81022111,-0.0044629349 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25      30.25 -52.394537        250        250)">
+    <path id="path125" d="M 0,0 C 0.46663938,0.67641802 0.74807252,-0.093101811 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25     -30.25  52.394537        250        250)">
+    <path id="path126" d="M 0,0 C 0.41571824,0.64138215 0.80394686,0.039108522 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25      30.25 -52.394537        250        250)">
+    <path id="path127" d="M 0,0 C 0.45101605,0.63499126 0.72627288,-0.088039494 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25     -30.25  52.394537        250        250)">
+    <path id="path128" d="M 0,0 C 0.49703312,0.61903672 0.71371021,2.4293609e-05 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25      30.25 -52.394537        250        250)">
+    <path id="path129" d="M 0,0 C 0.52058915,0.60025321 0.70162562,-0.005201492 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25     -30.25  52.394537        250        250)">
+    <path id="path130" d="M 0,0 C 0.48805304,0.60271836 0.84342252,-0.0010714709 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25      30.25 -52.394537        250        250)">
+    <path id="path131" d="M 0,0 C 0.51982996,0.68937542 0.80997672,-0.083959483 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25     -30.25  52.394537        250        250)">
+    <path id="path132" d="M 0,0 C 0.42840686,0.73517883 0.79114422,0.010475677 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25      30.25 -52.394537        250        250)">
+    <path id="path133" d="M 0,0 C 0.50616984,0.70534465 0.82786106,-0.042927035 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix( 52.394537      30.25     -30.25  52.394537        250        250)">
+    <path id="path134" d="M 0,0 C 0.4280738,0.70535968 0.7273927,-0.00022023585 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 5.037637e-14      -60.5        250        250)">
+    <path id="path135" d="M 0,0 C 0.48129242,0.71061887 0.77650027,0.039723642 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 -5.037637e-14       60.5        250        250)">
+    <path id="path136" d="M 0,0 C 0.41847042,0.6732461 0.71790363,-0.029219114 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 5.037637e-14      -60.5        250        250)">
+    <path id="path137" d="M 0,0 C 0.52776451,0.71802675 0.71786519,-0.036158038 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 -5.037637e-14       60.5        250        250)">
+    <path id="path138" d="M 0,0 C 0.51434374,0.73887767 0.72625357,-0.041287003 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 5.037637e-14      -60.5        250        250)">
+    <path id="path139" d="M 0,0 C 0.4227679,0.66729571 0.83046727,-0.04693437 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(      60.5 5.037637e-14 -5.037637e-14       60.5        250        250)">
+    <path id="path140" d="M 0,0 C 0.40486549,0.65467629 0.74905419,0.0099430349 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537 -52.394537      30.25        250        250)">
+    <path id="path141" d="M 0,0 C 0.50761694,0.68441411 0.73293141,0.042677033 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537  52.394537     -30.25        250        250)">
+    <path id="path142" d="M 0,0 C 0.50957751,0.63021991 0.78456573,-0.0080357399 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537 -52.394537      30.25        250        250)">
+    <path id="path143" d="M 0,0 C 0.53412911,0.67937239 0.77307662,-0.052249977 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537  52.394537     -30.25        250        250)">
+    <path id="path144" d="M 0,0 C 0.52892453,0.61496849 0.72481726,-0.0014795176 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537 -52.394537      30.25        250        250)">
+    <path id="path145" d="M 0,0 C 0.5330563,0.71549204 0.70232863,-0.075038129 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537  52.394537     -30.25        250        250)">
+    <path id="path146" d="M 0,0 C 0.50854825,0.60319539 0.74297447,0.031851699 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 -1.6792123e-14       60.5        250        250)">
+    <path id="path147" d="M 0,0 C 0.52786432,0.68974779 0.82903817,0.028665751 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 1.6792123e-14      -60.5        250        250)">
+    <path id="path148" d="M 0,0 C 0.44128973,0.63608051 0.80323876,-0.07801466 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 -1.6792123e-14       60.5        250        250)">
+    <path id="path149" d="M 0,0 C 0.52990845,0.64658128 0.81826467,-0.09962338 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 1.6792123e-14      -60.5        250        250)">
+    <path id="path150" d="M 0,0 C 0.45455555,0.66455413 0.76483456,-0.045094586 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 -1.6792123e-14       60.5        250        250)">
+    <path id="path151" d="M 0,0 C 0.42161096,0.72947982 0.75180755,-0.080478316 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 1.6792123e-14      -60.5        250        250)">
+    <path id="path152" d="M 0,0 C 0.45154578,0.69809216 0.77562591,-0.089654063 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 -1.6792123e-14       60.5        250        250)">
+    <path id="path153" d="M 0,0 C 0.50387001,0.64222696 0.83098553,0.029848766 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 1.6792123e-14      -60.5        250        250)">
+    <path id="path154" d="M 0,0 C 0.46166091,0.67555957 0.71054981,-0.048676668 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 -1.6792123e-14       60.5        250        250)">
+    <path id="path155" d="M 0,0 C 0.44360124,0.7413999 0.71262566,0.041867337 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     -60.5 -1.6792123e-14 1.6792123e-14      -60.5        250        250)">
+    <path id="path156" d="M 0,0 C 0.48450794,0.68609906 0.84386532,-0.019296805 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537 -52.394537      30.25        250        250)">
+    <path id="path157" d="M 0,0 C 0.45088797,0.70565556 0.70107836,-0.082014286 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537  52.394537     -30.25        250        250)">
+    <path id="path158" d="M 0,0 C 0.40009725,0.74793734 0.77457593,0.033798129 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25      30.25  52.394537        250        250)">
+    <path id="path159" d="M 0,0 C 0.50313707,0.71941573 0.80263699,-0.0094040685 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25     -30.25 -52.394537        250        250)">
+    <path id="path160" d="M 0,0 C 0.52337291,0.67906102 0.70357325,0.015656946 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25      30.25  52.394537        250        250)">
+    <path id="path161" d="M 0,0 C 0.41064664,0.60047917 0.72415434,0.0098209264 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25     -30.25 -52.394537        250        250)">
+    <path id="path162" d="M 0,0 C 0.44024657,0.74405841 0.76110957,-0.052788944 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25      30.25  52.394537        250        250)">
+    <path id="path163" d="M 0,0 C 0.4360161,0.62792797 0.70690284,0.031744585 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25     -30.25 -52.394537        250        250)">
+    <path id="path164" d="M 0,0 C 0.46181805,0.74528973 0.76090882,-0.088601962 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537 -52.394537      30.25        250        250)">
+    <path id="path165" d="M 0,0 C 0.51896173,0.60134693 0.73569461,-0.02563031 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(    -30.25 -52.394537  52.394537     -30.25        250        250)">
+    <path id="path166" d="M 0,0 C 0.42861739,0.65397861 0.84113138,-0.025460885 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25      30.25  52.394537        250        250)">
+    <path id="path167" d="M 0,0 C 0.5378097,0.69227185 0.73047837,-0.099774396 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25     -30.25 -52.394537        250        250)">
+    <path id="path168" d="M 0,0 C 0.44959311,0.71353535 0.73676494,-0.092901859 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25      30.25  52.394537        250        250)">
+    <path id="path169" d="M 0,0 C 0.40013121,0.67276533 0.83687309,0.014957178 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(-52.394537      30.25     -30.25 -52.394537        250        250)">
+    <path id="path170" d="M 0,0 C 0.49444818,0.63510669 0.71185741,-0.054834069 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537  52.394537     -30.25        250        250)">
+    <path id="path171" d="M 0,0 C 0.50996576,0.64797384 0.76067812,-0.061186154 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537 -52.394537      30.25        250        250)">
+    <path id="path172" d="M 0,0 C 0.50930205,0.62106058 0.76589767,0.0059710902 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537  52.394537     -30.25        250        250)">
+    <path id="path173" d="M 0,0 C 0.53069221,0.73012473 0.78861429,0.013512751 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537 -52.394537      30.25        250        250)">
+    <path id="path174" d="M 0,0 C 0.52427816,0.64594156 0.77424832,-0.099698224 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537  52.394537     -30.25        250        250)">
+    <path id="path175" d="M 0,0 C 0.46092775,0.65638812 0.84350676,-0.086278198 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537 -52.394537      30.25        250        250)">
+    <path id="path176" d="M 0,0 C 0.44741964,0.64327779 0.7038434,-0.084182792 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537  52.394537     -30.25        250        250)">
+    <path id="path177" d="M 0,0 C 0.50153377,0.71768988 0.79367411,-0.022019035 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537 -52.394537      30.25        250        250)">
+    <path id="path178" d="M 0,0 C 0.52233817,0.66500249 0.71772448,-0.031712429 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537  52.394537     -30.25        250        250)">
+    <path id="path179" d="M 0,0 C 0.42571464,0.65335926 0.78592365,-0.059794121 1,0"/>
+  </g>
+  <g fill="none" stroke="#000000"
+     stroke-width="0.01" stroke-linecap="miter" stroke-linejoin="miter" stroke-miterlimit="4"
+     transform="matrix(     30.25  52.394537 -52.394537      30.25        250        250)">
+    <path id="path180" d="M 0,0 C 0.46758259,0.65381366 0.82850798,-0.002551853 1,0"/>
+  </g>
+</svg>
