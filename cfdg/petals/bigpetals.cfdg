@@ -1,0 +1,22 @@
+startshape Scene
+
+shape Scene {
+  loop 400 []
+    Petal [r (rand()*-180) x (rand()*30) y (rand()^2*20)]
+  Flower(6) [x 29 y 19 r 45]
+}
+
+shape Flower(n) {
+  loop n [r (360/n)]
+    Petal []
+}
+
+shape Petal {
+  one []
+  one [f 0]
+}
+
+path one {
+  CURVETO(1, 0, 0.4 + rand()*0.1, 0.6 + rand()*0.1, 0.7 + rand()*0.1, -0.1 + rand()*0.1)
+  STROKE(0.05) []
+}
