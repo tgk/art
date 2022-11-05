@@ -1,0 +1,26 @@
+startshape Stage
+
+n = 20
+m = 25
+
+shape Stage {
+  SQUARE [alpha -0.75 x (n/2) y (m/2) s n m]
+  loop i = n [x 1]
+    loop j = m [y 1]
+      Glyph []
+}
+
+shape Glyph
+rule { Symbol [] }
+rule { Symbol [f 90 x 1] }
+
+shape Symbol {
+  c []
+  c [r 180 x 1 y 1]
+}
+
+path c {
+  MOVETO(0, 0.5)
+  ARCTO(0.5, 1, 0.5)
+  STROKE []
+}

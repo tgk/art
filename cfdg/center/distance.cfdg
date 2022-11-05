@@ -1,0 +1,22 @@
+startshape Loop
+
+n = 100
+m = 100
+
+shape Loop {
+  loop pos_i = 2*n [x 1]
+    loop pos_j = 2*m [y 1] {
+      i = pos_i - n
+      j = pos_j - m
+      if ((i*i + j*j) < 500) Glyph(j) []
+    }
+}
+
+shape Glyph(j)
+rule { l [] }
+rule { l [f 90 x 1] }
+
+path l {
+  LINETO(1, 1)
+  STROKE []
+}

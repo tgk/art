@@ -1,0 +1,28 @@
+startshape S
+
+n = 8
+
+shape S {
+  loop 5 [x 2]
+    loop 5 [y 2]
+      loop 3 []
+        C [r (360*rand())]
+}
+
+shape C
+rule {
+  loop i = n [] {
+    if (i <> 0)
+      l(i, n) []
+    l(-1 * i, n) []
+  }
+}
+rule { }
+
+path l(i, n) {
+  width = sqrt(1 - (i/n)^2)
+  ypoint = i/n
+  MOVETO( -width, ypoint )
+  LINETO( width, ypoint)
+  STROKE(0.01) []
+}
