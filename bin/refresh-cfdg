@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cfdg ${1} ${2}
+
+while inotifywait -e close_write ${1}; do cfdg ${1} ${2}; done
