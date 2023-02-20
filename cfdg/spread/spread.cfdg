@@ -1,0 +1,27 @@
+CF::Background = [hue 103 b -.175 saturation .05]
+
+startshape S
+
+shape S {
+  loop 150 [] {
+    P []
+  }
+}
+
+shape P {
+  n = max(0, 7 - randint::poisson(3))
+  poly(3 + n) [[r (randint(360)) x (n/2.0) s (1.0/(n + 1))]]
+}
+
+path poly(n) {
+  MOVETO(0, 1)
+  loop n [r (360/n)] {
+    if (rand() > 0) {
+      LINETO(0, 1)
+    } else {
+      MOVETO(0, 1)
+    }
+  }
+  LINETO(0, 1)
+  STROKE(0.01) []
+}

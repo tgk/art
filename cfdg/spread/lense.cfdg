@@ -1,0 +1,18 @@
+CF::Background = [hue 103 b -.175 saturation .05]
+
+startshape S
+
+shape S {
+  loop i = 6 [] {
+    poly(i + 3) []
+  }
+}
+
+path poly(n) {
+  MOVETO(0, 1)
+  loop n [r (360/n)] {
+    LINETO(0, 1)
+  }
+  LINETO(0, 1)
+  STROKE(0.01) []
+}
