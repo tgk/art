@@ -1,0 +1,68 @@
+CF::Impure = 1
+
+startshape Stage
+
+shape Stage {
+  clone [],
+        [x 0.2 y 0.2],
+        [x 0.4 y 0.4],
+        [x 0.6 y 0.6]
+        Glyph []
+  clone [],
+        [x 0.2 y 0.2],
+        [x 0.4 y 0.4],
+        [x 0.6 y 0.6]
+        Glyph [hue 357.7 sat 1.0000 b 0.5]
+}
+
+
+shape Glyph
+rule 2 { Line [] }
+rule { Curve [] }
+rule 0.1 {}
+
+shape Line
+rule 2 {
+  line() []
+  Glyph [x 2]
+}
+rule {
+  line() [r 90]
+  Glyph [y 2]
+}
+rule {
+  line() [r 180]
+  Glyph [x -2]
+}
+rule {
+  line() [r 270]
+  Glyph [y -2]
+}
+
+shape Curve
+rule {
+  curve() []
+  Line [x 1 y 1]
+}
+rule {
+  curve() [r 90]
+  Line [x -1 y 1]
+}
+rule {
+  curve() [r 180]
+  Line [x -1 y -1]
+}
+rule {
+  curve() [r 270]
+  Line [x 1 y -1]
+}
+
+path line {
+  LINETO(2, 0)
+  STROKE(0.1) []
+}
+
+path curve {
+  ARCTO(1, 1, 1)
+  STROKE(0.1) []
+}
